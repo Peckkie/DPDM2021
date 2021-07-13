@@ -3,7 +3,7 @@
 
 ## Yupaporn Wanna 645020061-2
 
-```!.[alt text](path filename)```
+``` "three back-ticks" !.[alt text](path filename)```
 ![grading image](MicrosoftTeams-image.png)
 
 ![image](https://user-images.githubusercontent.com/54661241/125416505-19edf0cf-fca6-460f-81a3-af9d8edeccc6.png)
