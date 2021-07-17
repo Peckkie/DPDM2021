@@ -10,15 +10,14 @@ By YUPAPORN WANNA 645020061-2
     <li>
       <a href="#ทำไม-Data-Mining-ถึงมีความสำคัญ">ทำไม Data Mining ถึงมีความสำคัญ</a>
       <ul>
-        <li><a href="#เเหล่งข้อมูลหลัก">เเหล่งข้อมูลหลัก</a></li>
+        <li><a href="เเหล่งข้อมูลหลัก">เเหล่งข้อมูลหลัก</a></li>
       </ul>
     </li>
     <li><a href="#Knowledge-Discovery-Process">Knowledge Discovery Process</a></li>
     <li><a href="#Data-Mining-in-Business-Intelligence">Data Mining in Business Intelligence</a></li>
     <li><a href="#KDD-Process-A-View-from-ML-and-Statistics">KDD Process: A View from ML and Statistics</a></li>
-    <li><a href="#Data-Mining-Functions-1-Pattern Discovery">Data Mining Functions 1 Pattern Discovery</a></li>
-    <li><a href="#Data-Mining-Functions-2-Classification">Data Mining Functions 2 Classification</a></li>
-    <li><a href="#Data-Mining-Functions-3-Cluster-Analysis">Data Mining Functions 3 Cluster Analysis</a></li>
+    <li><a href="#Data-Mining-Functions-1-Pattern-Discovery">Data Mining Functions 1 Pattern Discovery</a></li>
+    <li><a href="#Data-Mining-Functions-2-Classification-and-3-Cluster-Analysis">Data Mining Functions 2 Classification and 3 Cluster Analysis</a></li>
     <li><a href="#Data-Mining-Functions-4-Outlier-Analysis">Data Mining Functions 4 Outlier Analysis</a></li>
   </ol>
 </details>
@@ -39,26 +38,29 @@ By YUPAPORN WANNA 645020061-2
 ## Knowledge Discovery Process
 Knowledge Discovery (KDD) Process
 > Databases -> Data Warehouse(Data Cleaning&Data Integration) -> Task-relevant Data/ข้อมูลที่เกี่ยวข้องกัน(Selection) -> "Data Mining" -> Pattern Evaluation/การประเมินรูปแบบ -> knowledge(องค์ความรู้)
->>![image_Chapter1_0](img/Chapter1_0.jpg) 
+>![image_Chapter1_0](img/Chapter1_0.jpg) 
 
 ## Data Mining in Business Intelligence
->> ![image_Chapter1_0](img/Chapter1_1.jpg) 
+> ![image_Chapter1_1](img/Chapter1_1.jpg) 
 
 ## KDD Process A View from ML and Statistics
 >Input Data -> Data Pre Processing -> Data Mining -> Post Processing -> knowledge, pattern, Information
->>![image_Chapter1_0](img/Chapter1_2.jpg) 
+>![image_Chapter1_2](img/Chapter1_2.jpg) 
 
-## Data Mining: On What Kinds of Data?
 ## Data Mining Functions 1 Pattern Discovery
 > รูปแบบความถี่ 
 > 
 > "association rule" : คือรูปของข้อมูลที่เกิดขึ้นเเบบมีความเกี่ยวข้องกันหรือมีความสัมพันธ์กัน support ซึ่งกันและกัน 
 >> Ex. Diaper -> Beer [0.5%, 75%] (support, confidence) : ส่วนใหญ่คนที่ไปซื้อผ้าอ้อมเด็ก จะซื้อเบี่ยร์ด้วยเเทบทุกครั้งคิดเป็น 75% ที่ซื้อ(พ่อบ้าน) นั้นคือการเกิดขึ้นของข้อมูลมีความสัมพันธ์กัน 
 
-## Data Mining Functions 2 Classification
+## Data Mining Functions 2 Classification and 3 Cluster Analysis
+> ![image](https://user-images.githubusercontent.com/54661241/126034258-2f504c83-ff28-4dd5-be9b-f5ec3092b6ac.png)
+> - Classification คือการเเบ่งกลุ่มให้กับข้อมูลตามลักษณะของข้อมูล โดยที่ทราบ Class Label 
+> - Cluster Analysis คือการเเบ่งกลุ่มให้กับข้อมูลตามลักษณะของข้อมูลเมหื่อนกับ Classification เเต่ไม่ทราบ Class Label 
 
-## Data Mining Functions 3 Cluster Analysis
 ## Data Mining Functions 4 Outlier Analysis
-
+> Outlier Analysis คือ การวิเคราะห์เเละจัดการค่าผิดปกติของข้อมูล ค่า Outlier: ค่าที่ของข้อมูลที่เกิดจากข้อผิดพลาดจากการวัด การเก็บ  หรือเครื่องมือ อื่นๆ มักจะเป็นค่าที่สูงเกิน-ต่ำเกิน หรือค่าที่ต่างจากข้อมูลส่วนใหญ่ ตามรูปด้านล่างนี้
+> ![image_Chapter1_3](img/Chapter1_3.jpg)
+----
 
 
