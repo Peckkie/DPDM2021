@@ -1,8 +1,9 @@
 # บทที่ 1: Introduction 
  Week 1 / SC637802 Data Pre-processing and Data Mining
 
-By YUPAPORN WANNA 645020061-2
-
+ By YUPAPORN WANNA 645020061-2
+ 
+---
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -32,14 +33,16 @@ By YUPAPORN WANNA 645020061-2
 > - การดึงข้อมูลที่อยากรู้หรือสนใจ รูปแบบหรือองค์ความรู้จากข้อมูลที่มหาศาล
 ## Knowledge Discovery Process
 Knowledge Discovery (KDD) Process
-> Databases -> Data Warehouse(Data Cleaning&Data Integration) -> Task-relevant Data/ข้อมูลที่เกี่ยวข้องกัน(Selection) -> "Data Mining" -> Pattern Evaluation/การประเมินรูปแบบ -> knowledge(องค์ความรู้)
+> - Databases -> Data Warehouse(Data Cleaning&Data Integration) -> Task-relevant Data/ข้อมูลที่เกี่ยวข้องกัน(Selection) -> "Data Mining" -> Pattern Evaluation/การประเมินรูปแบบ -> knowledge(องค์ความรู้)
+> 
 >![image_Chapter1_0](img/Chapter1_0.jpg) 
 
 ## Data Mining in Business Intelligence
 > ![image_Chapter1_1](img/Chapter1_1.jpg) 
 
 ## KDD Process A View from ML and Statistics
->Input Data -> Data Pre Processing -> Data Mining -> Post Processing -> knowledge, pattern, Information
+> - Input Data -> Data Pre Processing -> Data Mining -> Post Processing -> knowledge, pattern, Information
+> 
 >![image_Chapter1_2](img/Chapter1_2.jpg) 
 
 ## Data Mining Functions 1 Pattern Discovery
@@ -54,7 +57,7 @@ Knowledge Discovery (KDD) Process
 > - Cluster Analysis คือการเเบ่งกลุ่มให้กับข้อมูลตามลักษณะของข้อมูลเมหื่อนกับ Classification เเต่ไม่ทราบ Class Label 
 
 ## Data Mining Functions 4 Outlier Analysis
-> Outlier Analysis คือ การวิเคราะห์เเละจัดการค่าผิดปกติของข้อมูล ค่า Outlier: ค่าที่ของข้อมูลที่เกิดจากข้อผิดพลาดจากการวัด การเก็บ  หรือเครื่องมือ อื่นๆ มักจะเป็นค่าที่สูงเกิน-ต่ำเกิน หรือค่าที่ต่างจากข้อมูลส่วนใหญ่ ตามรูปด้านล่างนี้
+> - Outlier Analysis คือ การวิเคราะห์เเละจัดการค่าผิดปกติของข้อมูล ค่า Outlier: ค่าที่ของข้อมูลที่เกิดจากข้อผิดพลาดจากการวัด การเก็บ  หรือเครื่องมือ อื่นๆ มักจะเป็นค่าที่สูงเกิน-ต่ำเกิน หรือค่าที่ต่างจากข้อมูลส่วนใหญ่ ตามรูปด้านล่างนี้
 > ![image_Chapter1_3](img/Chapter1_3.jpg)
 ----
 
