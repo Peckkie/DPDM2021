@@ -8,7 +8,7 @@ By YUPAPORN WANNA 645020061-2
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#ทำไม Data Mining ถึงมีความสำคัญ?">ทำไม Data Mining ถึงมีความสำคัญ?</a>
+      <a href="#ทำไม-Data-Mining-ถึงมีความสำคัญ?">ทำไม Data Mining ถึงมีความสำคัญ?</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
