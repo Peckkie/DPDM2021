@@ -1,9 +1,9 @@
-# บทที่ 1: Introduction 
- Week 1 / SC637802 Data Pre-processing and Data Mining
+Week 1 / SC637802 Data Pre-processing and Data Mining
 
- By YUPAPORN WANNA 645020061-2
+By YUPAPORN WANNA 645020061-2
  
 ---
+# บทที่ 1: Introduction 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
