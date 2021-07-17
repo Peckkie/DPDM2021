@@ -8,24 +8,24 @@ By YUPAPORN WANNA 645020061-2
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#ทำไม-Data-Mining-ถึงมีความสำคัญ?">ทำไม Data Mining ถึงมีความสำคัญ?</a>
+      <a href="##ทำไม-Data-Mining-ถึงมีความสำคัญ?">ทำไม Data Mining ถึงมีความสำคัญ?</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="##Knowledge-Discovery-(KDD)-Process">Knowledge Discovery (KDD) Process</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="##Data-Mining-in-Business-Intelligence">Data Mining in Business Intelligence</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="###Data-Mining-in-Business-Intelligence">Data Mining in Business Intelligence</a></li>
+    <li><a href="##KDD-Process:-A-View-from-ML-and-Statistics">KDD Process: A View from ML and Statistics</a></li>
+    <li><a href="#contributing">Data Mining Functions: (1) Pattern Discovery</a></li>
+    <li><a href="#license">Data Mining Functions: (2) Classification</a></li>
+    <li><a href="#contact">Data Mining Functions: (3) Cluster Analysis</a></li>
+    <li><a href="#acknowledgements">Data Mining Functions: (4) Outlier Analysis</a></li>
   </ol>
 </details>
 
