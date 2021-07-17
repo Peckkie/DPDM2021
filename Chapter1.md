@@ -7,12 +7,7 @@ By YUPAPORN WANNA 645020061-2
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#ทำไม-Data-Mining-ถึงมีความสำคัญ">ทำไม Data Mining ถึงมีความสำคัญ</a>
-      <ul>
-        <li><a href="เเหล่งข้อมูลหลัก">เเหล่งข้อมูลหลัก</a></li>
-      </ul>
-    </li>
+    <li><a href="#ทำไม-Data-Mining-ถึงมีความสำคัญ">ทำไม Data Mining ถึงมีความสำคัญ</a></li>
     <li><a href="#Knowledge-Discovery-Process">Knowledge Discovery Process</a></li>
     <li><a href="#Data-Mining-in-Business-Intelligence">Data Mining in Business Intelligence</a></li>
     <li><a href="#KDD-Process-A-View-from-ML-and-Statistics">KDD Process: A View from ML and Statistics</a></li>
