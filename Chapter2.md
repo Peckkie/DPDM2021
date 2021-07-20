@@ -10,12 +10,16 @@ By YUPAPORN WANNA 645020061-2
 
 (1) Record Data
 >![image_Chapter2_0](img/Chapter2_0.jpg)
+
 (2) Graphs and Networks
 >![image_Chapter2_1](img/Chapter2_1.jpg)
+
 (3) Ordered Data
 >![image_Chapter2_2](img/Chapter2_2.jpg)
+
 (4) Spatial, image and multimedia Data
 >![image_Chapter2_3](img/Chapter2_3.jpg)
+
 ### 2.2.2 Important Characteristics of Structured Data
 
 ### 2.2.3 Data Objects and Attribute Types
