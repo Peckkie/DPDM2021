@@ -11,10 +11,6 @@ By YUPAPORN WANNA 645020061-2
     <li><a href="#ประเภทของข้อมูล">ประเภทของข้อมูล</a></li>
     <li><a href="#ลักษณะสำคัญของโครงสร้างข้อมูล">ลักษณะสำคัญของโครงสร้างข้อมูล</a></li>
     <li><a href="#Data-Objects-and-Attribute-Types">Data Objects and Attribute Types</a></li> 
-    <li><a href="#KDD-Process-A-View-from-ML-and-Statistics">KDD Process: A View from ML and Statistics</a></li>
-    <li><a href="#Data-Mining-Functions-1-Pattern-Discovery">Data Mining Functions 1 Pattern Discovery</a></li>
-    <li><a href="#Data-Mining-Functions-2-Classification-and-3-Cluster-Analysis">Data Mining Functions 2 Classification and 3 Cluster Analysis</a></li>
-    <li><a href="#Data-Mining-Functions-4-Outlier-Analysis">Data Mining Functions 4 Outlier Analysis</a></li>
   </ol>
 </details>
 
