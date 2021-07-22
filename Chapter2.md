@@ -8,7 +8,7 @@ By YUPAPORN WANNA 645020061-2
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#ประเภทของข้อมูล-(Types-of-Data-Sets)">ประเภทของข้อมูล (Types of Data Sets)</a></li>
+    <li><a href="#2.1.1-ประเภทของข้อมูล-(Types-of-Data-Sets) ">2.1.1 ประเภทของข้อมูล (Types of Data Sets)</a></li>
     <li><a href="#ลักษณะสำคัญของโครงสร้างข้อมูล-(Important-Characteristics-of-Structured-Data)">ลักษณะสำคัญของโครงสร้างข้อมูล (Important Characteristics of Structured Data)</a></li>
     <li><a href="#Data-Objects-and-Attribute-Types">Data Objects and Attribute Types</a></li> 
     <li><a href="#KDD-Process-A-View-from-ML-and-Statistics">KDD Process: A View from ML and Statistics</a></li>
