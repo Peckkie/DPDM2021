@@ -8,8 +8,8 @@ By YUPAPORN WANNA 645020061-2
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#ประเภทของข้อมูล-(Types-of-Data-Sets) ">ประเภทของข้อมูล (Types of Data Sets)</a></li>
-    <li><a href="#ลักษณะสำคัญของโครงสร้างข้อมูล-(Important-Characteristics-of-Structured-Data)">ลักษณะสำคัญของโครงสร้างข้อมูล (Important Characteristics of Structured Data)</a></li>
+    <li><a href="#ประเภทของข้อมูล">ประเภทของข้อมูล</a></li>
+    <li><a href="#ลักษณะสำคัญของโครงสร้างข้อมูล">ลักษณะสำคัญของโครงสร้างข้อมูล</a></li>
     <li><a href="#Data-Objects-and-Attribute-Types">Data Objects and Attribute Types</a></li> 
     <li><a href="#KDD-Process-A-View-from-ML-and-Statistics">KDD Process: A View from ML and Statistics</a></li>
     <li><a href="#Data-Mining-Functions-1-Pattern-Discovery">Data Mining Functions 1 Pattern Discovery</a></li>
@@ -19,7 +19,8 @@ By YUPAPORN WANNA 645020061-2
 </details>
 
 ## Data Objects and Attribute Types
-### ประเภทของข้อมูล (Types of Data Sets) 
+### ประเภทของข้อมูล 
+"ประเภทของข้อมูล (Types of Data Sets)"
 
 (1) Record Data
 > - Relational records
@@ -40,7 +41,8 @@ By YUPAPORN WANNA 645020061-2
 (4) ประเภทข้อมูลลักษณธเชิงพื้นที่ รูปภาพ เเละวิดีโอ (Spatial, image and multimedia Data)
 > <br /><p align="center"><a><img src="img/Chapter2_6.jpg" alt="Logo" width="900" ></a> </p><br />
 
-### ลักษณะสำคัญของโครงสร้างข้อมูล (Important Characteristics of Structured Data)
+### ลักษณะสำคัญของโครงสร้างข้อมูล
+"ลักษณะสำคัญของโครงสร้างข้อมูล-(Important-Characteristics-of-Structured-Data)"
 - มิติของข้อมูล (Dimensionality)
 - Sparsity : สนใจเเค่จุดที่เเสดงหรือมีค่า ถ้าไม่มีค่าจะไม่สนใจ
 - ความละเอียดของข้อมูลในการเเสดงผล (Resolution): รูปแบบขึ้นอยู่กับขนาดของข้อมูล
