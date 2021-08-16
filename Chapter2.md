@@ -11,6 +11,7 @@ By YUPAPORN WANNA 645020061-2
     <li><a href="#ประเภทของข้อมูล">ประเภทของข้อมูล</a></li>
     <li><a href="#ลักษณะสำคัญของโครงสร้างข้อมูล">ลักษณะสำคัญของโครงสร้างข้อมูล</a></li>
     <li><a href="#Data-Objects-and-Attribute-Types">Data Objects and Attribute Types</a></li> 
+    <li><a href="#Measuring-Data-Similarity-and-Dissimilarity">Measuring Data Similarity and Dissimilarity</a></li> 
   </ol>
 </details>
 
@@ -72,6 +73,7 @@ By YUPAPORN WANNA 645020061-2
     <br /><p align="left"><a><img src="img/Chapter2_9.jpg" alt="Logo" width="600" ></a> </p><br /> 
   - เมทริกซ์ความแตกต่าง (ระยะห่าง) : n จุดข้อมูล แต่บันทึกเฉพาะระยะทาง d(i, j) (โดยทั่วไปของเมตริก) l ตามด้านล่าง ฟังก์ชันระยะทางมักจะแตกต่างกันสำหรับตัวแปรจริง บูลีน หมวดหมู่ ลำดับ อัตราส่วน และเวกเตอร์ 
     <br /><p align="left"><a><img src="img/Chapter2_10.jpg" alt="Logo" width="600" ></a> </p><br /> 
+
 - การกำหนดมาตรฐานข้อมูลตัวเลข (Standardizing Numeric Data)
   -  Z-score: 
         Z = (X - M) /SD, 
@@ -80,7 +82,33 @@ By YUPAPORN WANNA 645020061-2
         SD = Std. Deviation
   -  วิธีอื่น: คำนวณค่าเบี่ยงเบนสัมบูรณ์เฉลี่ย 
   -  การใช้ค่าเบี่ยงเบนสัมบูรณ์เฉลี่ยจะมีประสิทธิภาพมากกว่าการใช้ค่าเบี่ยงเบนมาตรฐาน 
+
 - ระยะทางบนข้อมูลตัวเลข: Minkowski Distance 
   - Minkowski Distance -> เป็นการวัดระยะทางยอดนิยม 
-
+  <br /><p align="left"><a><img src="img/Chapter2_11.jpg" alt="Logo" width="600" ></a> </p><br /> 
+  คุณสมบัติ 
+    - d(i, j) > 0 if i ≠ j, and d(i, i) = 0 (แง่บวก )
+    - d(i, j) = d(j, i) (สมมาตร )
+    - d(i, j) <= d(i, k) + d(k, j) (อสมการสามเหลี่ยม ) ;ระยะทางที่ตรงตามคุณสมบัติเหล่านี้เป็นหน่วยเมตริก 
+   หมายเหตุ: มีความต่างที่ไม่ใช่เมตริก เช่น ความแตกต่างของเซต 
+  - กรณีพิเศษของ Minkowski Distance  (Special Cases)
+    <br /><p align="left"><a><img src="img/Chapter2_12.jpg" alt="Logo" width="600" ></a> </p><br /> 
+  - Example: Minkowski Distance ในกรณีพิเศษ 
+    <br /><p align="left"><a><img src="img/Chapter2_13.jpg" alt="Logo" width="600" ></a> </p><br /> 
+- การวัดความใกล้เคียง (Proximity Measure)
+  - การวัดความใกล้เคียงสำหรับตัวแปรไบนารี (Binary Attributes)
+    -Distance measure for symmetric binary variables : ความน่าจะเป็นที่จะเกิด 2 ค่าเท่าๆ กัน 
+    -Distance measure for asymmetric binary variables : ความน่าจะเป็นที่จะเกิด 2 ค่าไม่เท่ากัน 
+    -Example:
+     <br /><p align="left"><a><img src="img/Chapter2_14.jpg" alt="Logo" width="600" ></a> </p><br /> 
+  - การวัดความใกล้เคียงสำหรับตัวแปรหมวดหมู่ (Categorical Attributes/nominal attributes)
+    Method 1: Simple matching, m: # of matches, p: total # of variables
+    <br /><p align="left"><a><img src="img/Chapter2_15.jpg" alt="Logo" width="600" ></a> </p><br /> 
+    Method 2: ใช้แอตทริบิวต์ไบนารีจำนวนมาก, การสร้างแอตทริบิวต์ไบนารีใหม่สำหรับแต่ละหมวดหมู่ M  
+  - การวัดความใกล้เคียงสำหรับตัวแปรลำดับ  (Ordinal Variables)
+    > ตัวแปรลำดับอาจเป็นแบบไม่ต่อเนื่องหรือต่อเนื่องก็ได้, ลำดับมีความสำคัญ เช่น ยศ (เช่น น้องใหม่ รุ่นพี่ รุ่นน้อง รุ่นพี่)
+   - สามารถคำนวณหาได้เหมือน interval-scaled:
+   1.แทนที่ค่าตัวแปรลำดับตามอันดับ
+   2.มปช่วงของตัวแปรแต่ละตัวลงบน [0, 1] โดยแทนที่อ็อบเจ็กต์ i-th ในตัวแปร f-th โดย สมการตามด้านล่าง
+   ตัวอย่าง: น้องใหม่: 0; ปีที่สอง: 1/3; จูเนียร์: 2/3; รุ่นพี่ 1 จากนั้น ระยะทาง: d(น้องใหม่ รุ่นพี่) = 1, d(รุ่นน้อง รุ่นพี่) = 1/3 คำนวณความแตกต่างโดยใช้วิธีการสำหรับตัวแปรสเกลตาม interval-scaled
 
