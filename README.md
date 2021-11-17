@@ -67,6 +67,12 @@
                 ทำงานที่ x
             ```
         * Function
+        
+            ส่วนประกอบ
+            - input 
+            - process(ไม่มีไม่ได้)
+            - output
+          
             ```python
             def ชื่อฟังก์ชั้น(input,...):
                 งาน XXX
@@ -80,11 +86,6 @@
             >x this tells you that x is the input
 
             >2x tells you what the function does (this function multplies the input values by 2)
-            
-            ส่วนประกอบ
-            - input 
-            - process(ไม่มีไม่ได้)
-            - output
 
 
      * ### 2 Data Visualization [code](https://github.com/Peckkie/DPDM2021/blob/main/Data101(Chapter2).ipynb)
