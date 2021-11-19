@@ -146,11 +146,21 @@
 * ## บทที่ 6 Cluster Analysis Ex. K-means [code](https://github.com/Peckkie/DPDM2021/blob/main/Chaper_8_Clustering.ipynb)
 
 -------------------------------
-> # Mini Project 
+# Mini Project 
 
-* ### 1 Code รวมของ project [code](https://github.com/Peckkie/DPDM2021/blob/main/Mini_Project_COVID19.ipynb)
+* ### 1 Code จัดการ dataset 
+     
+     * ##### 1) Code Download Data Source : COVID-19 Data by CSSE and worldometers [code](https://github.com/Peckkie/DPDM2021/blob/main/1_COVID_19_Data_Downloading_and_Cleansing_.ipynb)
 
-* ### 2 PPT นำเสนอ [link](https://github.com/Peckkie/DPDM2021/blob/main/PPT_Mini_Project_COVID19.pdf)
+     * ##### 2) Code Download Countries in the world by population (2021) [code](https://github.com/Peckkie/DPDM2021/blob/main/2_COVID_19_Data_Downloading_and_Cleansing.ipynb)
+     
+     * ##### 3) Code Visaulization data และตอบคำถาม 2 ข้อ [code](https://github.com/Peckkie/DPDM2021/blob/main/2_Merging_table_2_Data_Source.ipynb)
 
+         * [1] เเสดงประเทศที่มีประชากรมากที่สุดเเละมีอัตราส่วนการเป็นโควิดเเล้วหายเท่าไหร่
+         * [2] แสดงสัดส่วนคนที่ติดโควิดเเล้วเสียชัวิตมากที่สุด 5 ประเทศเเรกในทวีปยุโรปและเอเชีย
+
+* ### 2 Code รวมของ project*** [code](https://github.com/Peckkie/DPDM2021/blob/main/Mini_Project_COVID19.ipynb)
+
+* ### 3 PPT นำเสนอ [link](https://github.com/Peckkie/DPDM2021/blob/main/PPT_Mini_Project_COVID19.pdf)
 
 -------------------------------
