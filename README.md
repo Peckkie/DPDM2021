@@ -143,8 +143,7 @@
         
      * #### 3 Naive Bayes Classification [code](https://github.com/Peckkie/DPDM2021/blob/main/Classification_(Naive_Bayes).ipynb)
 
-* ## บทที่ 6 Data Mining
-* ## บทที่ 7 Cluster Analysis 
+* ## บทที่ 6 Cluster Analysis Ex. K-means [code](https://github.com/Peckkie/DPDM2021/blob/main/Chaper_8_Clustering.ipynb)
 
 -------------------------------
 > # Mini Project 
