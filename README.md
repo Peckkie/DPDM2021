@@ -149,9 +149,9 @@
 -------------------------------
 > # Mini Project 
 
-* ## 1 Code [code](https://github.com/Peckkie/DPDM2021/blob/main/Mini_Project_COVID19.ipynb)
+* ### 1 Code รวมของ project [code](https://github.com/Peckkie/DPDM2021/blob/main/Mini_Project_COVID19.ipynb)
 
-* ## 2 PPT นำเสนอ [Link](https://github.com/Peckkie/DPDM2021/blob/main/Mini_Project_COVID19.ipynb)
+* ### 2 PPT นำเสนอ [Link](https://github.com/Peckkie/DPDM2021/blob/main/PPT_Mini_Project_COVID19.pdf)
 
 
 -------------------------------
