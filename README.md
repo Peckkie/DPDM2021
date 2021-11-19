@@ -131,4 +131,27 @@
         * [PD] Sample record
         * [PD] Save File
         * [PD] การสร้างตาราง pandas 
-* ## บทที่ 4 การเตรียมข้อมูลข้อมูล (Data preprocessing) [code](https://github.com/Peckkie/DPDM2021/blob/main/Data_preprocessing_(Chapter_3).ipynb)
+* ## บทที่ 4 Mining Frequent patterns, Association and Correlation [code](https://github.com/Peckkie/DPDM2021/blob/main/Frequart_Patterm_Assosiation_Rules.ipynb)
+
+* ## บทที่ 5 Classification
+
+     ประกอบด้วย 3 เรื่องใหญ่ คือ
+
+     * ### 1 Decision Tree Classification [code](https://github.com/Peckkie/DPDM2021/blob/main/Classification_(Decision_Tree).ipynb)
+     
+     * ### 2 Nearest Neighbors Classification [code](https://github.com/Peckkie/DPDM2021/blob/main/Classification(KNN_Evaluation).ipynb)
+        
+     * ### 3 Naive Bayes Classification [code](https://github.com/Peckkie/DPDM2021/blob/main/Classification_(Naive_Bayes).ipynb)
+
+* ## บทที่ 6 Data Mining
+* ## บทที่ 7 Cluster Analysis 
+
+-------------------------------
+> # Mini Project 
+
+* ## 1 Code [code](https://github.com/Peckkie/DPDM2021/blob/main/Mini_Project_COVID19.ipynb)
+
+* ## 2 PPT นำเสนอ [Link](https://github.com/Peckkie/DPDM2021/blob/main/Mini_Project_COVID19.ipynb)
+
+
+-------------------------------
