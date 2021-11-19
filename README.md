@@ -114,5 +114,21 @@
           * Manhatton Distance ${|x_1 - x_2|+|y_1 - y_2|}$
           * Euclidean distance $\sqrt{(x_1 - x_2)^2 - (y_1 - y_2)^2} $ 
 
-          
-
+* ## บทที่ 3 การเตรียมข้อมูลข้อมูล (Data preprocessing) [code](https://github.com/Peckkie/DPDM2021/blob/main/Data_preprocessing_(Chapter_3).ipynb)
+        
+     * ประกอบด้วย 
+        
+        * Descriptive Statistics of Data
+        * Missing value
+        * Handling Missing Value1 (ลบค่า missing)
+        * Handing Missing Value2 แทนด้วยค่าที่เหมาะสมหรือสร้าง class ใหม่
+        * Handing Missing Value3 แทนด้วยค่ากลาง
+        * Handing Missing Value4 แทนด้วยค่ากลางของกลุ่ม
+        * การทำงานกับ datetime-timestamp
+        * Smooth data by Binning
+        * การต่อตาราง [PD] แนวแกน X
+        * [PD] Group by
+        * [PD] Sample record
+        * [PD] Save File
+        * [PD] การสร้างตาราง pandas 
+* ## บทที่ 4 การเตรียมข้อมูลข้อมูล (Data preprocessing) [code](https://github.com/Peckkie/DPDM2021/blob/main/Data_preprocessing_(Chapter_3).ipynb)
