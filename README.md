@@ -12,7 +12,7 @@
      
      ประกอบด้วย 
    
-   * เนื้อหา [link](https://github.com/Peckkie/DPDM2021/blob/main/Chapter1.md)
+   *  ### เนื้อหา [link](https://github.com/Peckkie/DPDM2021/blob/main/Chapter1.md)
         * ทำไม Data Mining ถึงมีความสำคัญ
         * Knowledge Discovery Process
         * Data Mining in Business Intelligence
@@ -137,11 +137,11 @@
 
      ประกอบด้วย 3 เรื่องใหญ่ คือ
 
-     * ### 1 Decision Tree Classification [code](https://github.com/Peckkie/DPDM2021/blob/main/Classification_(Decision_Tree).ipynb)
+     * #### 1 Decision Tree Classification [code](https://github.com/Peckkie/DPDM2021/blob/main/Classification_(Decision_Tree).ipynb)
      
-     * ### 2 Nearest Neighbors Classification [code](https://github.com/Peckkie/DPDM2021/blob/main/Classification(KNN_Evaluation).ipynb)
+     * #### 2 Nearest Neighbors Classification [code](https://github.com/Peckkie/DPDM2021/blob/main/Classification(KNN_Evaluation).ipynb)
         
-     * ### 3 Naive Bayes Classification [code](https://github.com/Peckkie/DPDM2021/blob/main/Classification_(Naive_Bayes).ipynb)
+     * #### 3 Naive Bayes Classification [code](https://github.com/Peckkie/DPDM2021/blob/main/Classification_(Naive_Bayes).ipynb)
 
 * ## บทที่ 6 Data Mining
 * ## บทที่ 7 Cluster Analysis 
@@ -151,7 +151,7 @@
 
 * ### 1 Code รวมของ project [code](https://github.com/Peckkie/DPDM2021/blob/main/Mini_Project_COVID19.ipynb)
 
-* ### 2 PPT นำเสนอ [Link](https://github.com/Peckkie/DPDM2021/blob/main/PPT_Mini_Project_COVID19.pdf)
+* ### 2 PPT นำเสนอ [link](https://github.com/Peckkie/DPDM2021/blob/main/PPT_Mini_Project_COVID19.pdf)
 
 
 -------------------------------
