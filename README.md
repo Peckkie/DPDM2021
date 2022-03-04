@@ -88,7 +88,7 @@
             >2x tells you what the function does (this function multplies the input values by 2)
 
 
-     * ### 2 Data Visualization [code](https://github.com/Peckkie/DPDM2021/blob/main/Data101(Chapter2).ipynb)
+     * ### 2 Data Visualization [code](https://github.com/Peckkie/DPDM2021/blob/main/Data102(Chapter2).ipynb)
  
         * 1) Eyesball the Data
         * 2) Statical deacriptive
